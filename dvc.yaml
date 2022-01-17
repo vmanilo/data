@@ -1,0 +1,3 @@
+stages:
+  first_stage:
+    cmd: ./a_script.sh > /dev/null 2>&1
